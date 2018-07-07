@@ -47,6 +47,9 @@ function education(edu){
       child2.appendChild(eduTable);
 }
 function skills(skil){
+  var skilHeading=document.createElement("h3");
+  skilHeading.textContent="skills:";
+  child2.appendChild(skilHeading);
   var ul=document.createElement("ul");
   child2.appendChild(ul);
   for(var i=0;i<skil.length;i++){
