@@ -80,9 +80,6 @@ body{
 }
 /*for ipad pro or laptops*/
 @media screen and (min-device-width:769px)and (max-device-width:1024px){
-body{
-  background-color:maroon;
-}
   .parent{
     display:flex;
     flex-direction:row;
@@ -91,14 +88,16 @@ body{
   .childOne{
     width: 30%;
     margin:2px;
-    border:1px solid gray;
+    border:1px solid grey;
     border-radius:15px 12px 15px 15px;
+    background-color: tomato;
   }
   .childTwo{
     width:68%;
     margin:2px;
     border:2px solid blue;
     border-radius:2px 2px 2px 2px;
+    background-color: green;
   }
   img{
     display:block;

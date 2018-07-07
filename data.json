@@ -1,0 +1,46 @@
+{
+  "profile":{
+    "name":"INDHU YELINENI",
+    "label":"Student",
+    "email":"indhuyelineni14@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+  {
+    "degree":"B.Tech(Information Technology)",
+    "institute":"PVPSIT",
+     "data":["2016-20","97%"]
+  },
+  {
+    "degree":"Intermediate(M.P.C)",
+    "institute":"NJC",
+    "data":["2014-16","97%"]
+      },
+  {
+    "degree":"SSC",
+    "institute":"Loyola",
+    "data":["2014","93%"]
+  }
+],
+"skills":[
+{
+  "title":"Languages",
+  "content":["C","C++","JAVA","Python"]
+},
+{
+  "title":"DataBase",
+  "content":["SQL","CSS","JavaScript","PHP"]
+},
+
+{
+  "title":"Web Technologies",
+  "content":["HTML","CSS","PHP","JS","NodeJS","ReactJS","AngularJS"]
+},
+{
+  "title":"Frameworks",
+  "content":["Django","CodeIgniter"]
+}
+]
+}
